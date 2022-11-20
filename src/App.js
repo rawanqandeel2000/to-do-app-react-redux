@@ -8,7 +8,6 @@ function App() {
       <h1 className=" ml-96 mt-7  text-2xl text-blue-600 font-bold">To Do App</h1>
       <TodoInput/>
       <Todos/>
-
     </div>
   );
 }
