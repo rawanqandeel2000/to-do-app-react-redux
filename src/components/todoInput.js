@@ -18,7 +18,6 @@ const TodoInput = () => {
       id: Math.ceil(Math.random() * 100)
     }
   });
-  
 
   const handleDeleteAll = () => dispatch({type: 'DELETE_ALL'});
 
